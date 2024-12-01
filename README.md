@@ -4,10 +4,10 @@ A sleek and modern UI/UX design 🎨 created in Figma to redefine the dining exp
 
 🌟 Key Features
 🏠 Home Screen: Highlighted daily specials & chef recommendations 👨‍🍳✨.
-🍲 Menu Categories: Easy navigation through starters, mains, desserts 🍰, and drinks 🍹.![iPhone 15 Pro Max (3)](https://github.com/user-attachments/assets/a483aabc-30c7-4754-bb2b-6a824b600393)
-![iPhone 15 Pro Max (4)](https://github.com/user-attachments/assets/bcadc3c6-fc76-4a18-a04b-75f94d2525b6)
-![iPhone 15 Pro Max (5)](https://github.com/user-attachments/assets/4a97a209-d2c9-4d22-aba9-f3ab47868164)
-![iPhone 15 Pro Max (6)](https://github.com/user-attachments/assets/12c704a8-711e-4db3-94d8-c3be7c92d4c9)
+🍲 Menu Categories: Easy navigation through starters, mains, desserts 🍰, and drinks 🍹.!![iPhone 16 Pro (2)](https://github.com/user-attachments/assets/ee3329ac-c823-4237-81b1-2f7dd62bd1a5)
+![iPhone 15 Mockup, Perspective (1)](https://github.com/user-attachments/assets/680e3118-59ac-4b23-9bdd-24c2fde13789)
+
+
 
 📖 Dish Details: All-you-need-to-know about each dish – ingredients 🥗, pricing 💸, and stunning visuals 📸.
 🔍 Search Bar: Quickly find your cravings 🍔🍣🍕.
